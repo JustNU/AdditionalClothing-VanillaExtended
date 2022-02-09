@@ -1,0 +1,23 @@
+{
+	"AddClothingVanillaExt_BlackTshirtUpper": {
+        "Name": "Черная футболка"
+	},
+	"AddClothingVanillaExt_FsbAltUpper": {
+        "Name": "ФСБ Быстрое Реагирование (Вар. 1)"
+	},
+	"AddClothingVanillaExt_FsbAlt2Upper": {
+        "Name": "ФСБ Быстрое Реагирование (Вар. 2)"
+	},
+	"AddClothingVanillaExt_UcpUrbanReponderLower": {
+        "Name": "USEC Адаптивный Боевой"
+	},
+	"AddClothingVanillaExt_Tier2Alt1Upper": {
+        "Name": "TIER2 (Вар. 1)"
+	},
+	"AddClothingVanillaExt_Tier2Alt2Upper": {
+        "Name": "TIER2 (Вар. 2)"
+	},
+	"AddClothingVanillaExt_BoreyTriariusLower": {
+        "Name": "BEAR Борей"
+	}
+}
