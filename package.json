@@ -2,9 +2,10 @@
     "name": "Additional Clothing - Vanilla Extended",
     "author": "JustNU",
     "version": "1.0.0",
-    "license": "NCSA",
-    "main": "package.js",
-	"dependencies": {
+    "license": "MIT",
+    "main": "src/mod.js",
+	"akiVersion": "3.3.x",
+	"modDependencies": {
         "A_JustNUCore": "1.0.0"
     }
 }
