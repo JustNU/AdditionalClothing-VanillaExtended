@@ -6,6 +6,6 @@
     "main": "src/mod.js",
 	"akiVersion": "3.3.x",
 	"modDependencies": {
-        "A_JustNUCore": "1.0.0"
+        "JustNUCore": "1.0.0"
     }
 }
