@@ -4,44 +4,39 @@
             "key": "AddClothingVanillaExt/Tops/top_fsbfastresponse_alt.bundle",
             "dependencyKeys": [
                 "cubemaps",
-                "shaders",
-                "assets/content/characters/character/skeleton.bundle"
+                "shaders"
             ]
         },
 		{
             "key": "AddClothingVanillaExt/Tops/top_fsbfastresponse_alt2.bundle",
             "dependencyKeys": [
                 "cubemaps",
-                "shaders",
-                "assets/content/characters/character/skeleton.bundle"
+                "shaders"
             ]
         },
 		{
             "key": "AddClothingVanillaExt/Hands/hands_fsbfastresponse_alt.bundle",
             "dependencyKeys": [
-                "cubemaps",
-                "assets/content/hands/bear/bear_hands_watch_texture.bundles",
-                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"shaders",
+				"cubemaps",
 				"assets/content/hands/bear/bear_watch.bundle",
-				"shaders"
-            ]
+				"assets/content/hands/bear/bear_hands_watch_texture.bundles"
+			]
         },
 		{
             "key": "AddClothingVanillaExt/Hands/hands_fsbfastresponse_alt2.bundle",
             "dependencyKeys": [
-                "cubemaps",
-                "assets/content/hands/bear/bear_hands_watch_texture.bundles",
-                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"shaders",
+				"cubemaps",
 				"assets/content/hands/bear/bear_watch.bundle",
-				"shaders"
-            ]
+				"assets/content/hands/bear/bear_hands_watch_texture.bundles"
+			]
         },
 		{
             "key": "AddClothingVanillaExt/Bottoms/bottom_urbanresponder_ucp.bundle",
             "dependencyKeys": [
 				"cubemaps",
-                "shaders",
-                "assets/content/characters/character/skeleton.bundle"
+                "shaders"
             ]
         },
 		{
@@ -61,22 +56,20 @@
 		{
             "key": "AddClothingVanillaExt/Hands/hands_tier2_alt1.bundle",
             "dependencyKeys": [
-                "shaders",
+				"shaders",
 				"cubemaps",
-                "assets/content/hands/usec/materials/watch_usec_textures",
-                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/usec/materials/watch_usec_textures",
 				"assets/content/hands/bear/bear_watch.bundle"
-            ]
+			]
         },
 		{
             "key": "AddClothingVanillaExt/Hands/hands_tier2_alt2.bundle",
             "dependencyKeys": [
-                "shaders",
+				"shaders",
 				"cubemaps",
-                "assets/content/hands/usec/materials/watch_usec_textures",
-                "assets/content/textures/holemanager/round_spec_mask.bundle",
+				"assets/content/hands/usec/materials/watch_usec_textures",
 				"assets/content/hands/bear/bear_watch.bundle"
-            ]
+			]
         },
 		{
             "key": "AddClothingVanillaExt/Bottoms/bottom_triarius_borey.bundle",
@@ -89,8 +82,7 @@
             "key": "AddClothingVanillaExt/Tops/top_tshirt_black.bundle",
             "dependencyKeys": [
                 "cubemaps",
-                "shaders",
-                "assets/content/characters/character/skeleton.bundle"
+                "shaders"
             ]
         }
     ]
