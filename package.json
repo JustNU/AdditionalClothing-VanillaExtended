@@ -1,7 +1,7 @@
 {
     "name": "Additional Clothing - Vanilla Extended",
     "author": "JustNU",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": "Unlicense",
     "main": "src/mod.js",
 	"akiVersion": "3.4.*",
