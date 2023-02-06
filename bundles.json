@@ -84,6 +84,13 @@
                 "cubemaps",
                 "shaders"
             ]
+        },
+		{
+            "key": "AddClothingVanillaExt/Bottoms/bottom_gen2_multicam.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
         }
     ]
 }

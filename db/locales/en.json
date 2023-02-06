@@ -19,5 +19,8 @@
 	},
 	"AddClothingVanillaExt_BoreyTriariusLower": {
         "Name": "BEAR Boreas"
+	},
+	"AddClothingVanillaExt_Gen2_Multicam": {
+        "Name": "GEN.2 Khyber (Multicam)"
 	}
 }
