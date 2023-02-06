@@ -12,7 +12,7 @@ class Mod
 		const VFS = container.resolve("VFS");
 		const itemData = require("../db/items/itemData.json");
 		const enLocale = require(`../db/locales/en.json`);
-		const modPath = modLoader.getModPath("AdditionalGear - Tan Module, Rigs")
+		const modPath = modLoader.getModPath("AdditionalGear - Tan Module, Rigs");
 		
 		// add tops
 		for (const outfitId in itemData.Tops) {
