@@ -54,6 +54,17 @@
 			"Standing": 0,
 			"CurrencyId": "5449016a4bdc2d6f028b456f",
 			"Price": 0
+		},
+		"AddClothingVanillaExt_VoinUpper": {
+			"TopBundlePath": "AddClothingVanillaExt/Tops/top_sumrak_white.bundle",
+			"HandsBundlePath": "AddClothingVanillaExt/Hands/hands_sumrak_white.bundle",
+			"HandsBaseID": "618aeee10a5a59657e5f55ed",
+			"TraderId": "5ac3b934156ae10c4430e83c",
+			"LoyaltyLevel": 0,
+			"ProfileLevel": 0,
+			"Standing": 0,
+			"CurrencyId": "5449016a4bdc2d6f028b456f",
+			"Price": 0
 		}
 	},
 	"Bottoms": {

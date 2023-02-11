@@ -91,6 +91,21 @@
                 "cubemaps",
                 "shaders"
             ]
+        },
+		{
+            "key": "AddClothingVanillaExt/Tops/top_sumrak_white.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+		{
+            "key": "AddClothingVanillaExt/Hands/hands_sumrak_white.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/content/hands/bear/bear_watch.bundle"
+			]
         }
     ]
 }

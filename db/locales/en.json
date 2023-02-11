@@ -22,5 +22,8 @@
 	},
 	"AddClothingVanillaExt_Gen2_Multicam": {
         "Name": "GEN.2 Khyber (Multicam)"
+	},
+	"AddClothingVanillaExt_VoinUpper": {
+        "Name": "BEAR VOIN"
 	}
 }
