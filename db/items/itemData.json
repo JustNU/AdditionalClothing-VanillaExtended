@@ -24,7 +24,7 @@
 		},
 		"AddClothingVanillaExt_FsbAlt2Upper": {
 			"TopBundlePath": "AddClothingVanillaExt/Tops/top_fsbfastresponse_alt2.bundle",
-			"HandsBundlePath": "AddClothingVanillaExt/Hands/hands_fsbfastresponse_alt.bundle",
+			"HandsBundlePath": "AddClothingVanillaExt/Hands/hands_fsbfastresponse_alt2.bundle",
 			"HandsBaseID": "5d1f5ab286f7743f8362bcdd",
 			"TraderId": "5ac3b934156ae10c4430e83c",
 			"LoyaltyLevel": 0,
@@ -35,7 +35,7 @@
 		},
 		"AddClothingVanillaExt_Tier2Alt1Upper": {
 			"TopBundlePath": "AddClothingVanillaExt/Tops/top_tier2_alt1.bundle",
-			"HandsBundlePath": "AddClothingVanillaExt/Hands/hands_fsbfastresponse_alt.bundle",
+			"HandsBundlePath": "AddClothingVanillaExt/Hands/hands_tier2_alt1.bundle",
 			"HandsBaseID": "5e4bb1fe86f774069342dec8",
 			"TraderId": "5ac3b934156ae10c4430e83c",
 			"LoyaltyLevel": 0,
@@ -46,7 +46,7 @@
 		},
 		"AddClothingVanillaExt_Tier2Alt2Upper": {
 			"TopBundlePath": "AddClothingVanillaExt/Tops/top_tier2_alt2.bundle",
-			"HandsBundlePath": "AddClothingVanillaExt/Hands/hands_fsbfastresponse_alt.bundle",
+			"HandsBundlePath": "AddClothingVanillaExt/Hands/hands_tier2_alt2.bundle",
 			"HandsBaseID": "5e4bb1fe86f774069342dec8",
 			"TraderId": "5ac3b934156ae10c4430e83c",
 			"LoyaltyLevel": 0,
