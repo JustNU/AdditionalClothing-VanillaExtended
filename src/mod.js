@@ -39,8 +39,8 @@ class Mod
 				database.locales.global[localeID][`${itemId}Suite Name`] = enLocale[itemId].Name;
 			}
 			
-			if (VFS.exists(`${modPath}locales\\${localeID}.json`) && localeID != "en") {
-				const actualLocale = require(`../locales/${localeID}.json`);
+			if (VFS.exists(`${modPath}\\db\\locales\\${localeID}.json`) && localeID != "en") {
+				const actualLocale = require(`${modPath}\\db\\locales\\${localeID}.json`);
 				
 				for (const itemId in actualLocale) {
 					database.locales.global[localeID][`${itemId}Suite Name`] = actualLocale[itemId].Name;
