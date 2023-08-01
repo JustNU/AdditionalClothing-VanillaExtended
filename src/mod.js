@@ -6,13 +6,12 @@ class Mod
 	{
 		// Constants
 		const logger = container.resolve("WinstonLogger");
-		const modLoader = container.resolve("PreAkiModLoader");
 		const database = container.resolve("DatabaseServer").getTables();
 		const core = container.resolve("JustNUCore");
 		const VFS = container.resolve("VFS");
 		const itemData = require("../db/items/itemData.json");
 		const enLocale = require(`../db/locales/en.json`);
-		const modPath = modLoader.getModPath("AdditionalGear - Tan Module, Rigs");
+		const modPath = __dirname.split("\\").slice(0, -1).join("\\");
 		
 		// add tops
 		for (const outfitId in itemData.Tops) {
@@ -40,7 +39,7 @@ class Mod
 				database.locales.global[localeID][`${itemId}Suite Name`] = enLocale[itemId].Name;
 			}
 			
-			if (VFS.exists(`${modPath}locales/${localeID}.json`) && localeID != "en") {
+			if (VFS.exists(`${modPath}locales\\${localeID}.json`) && localeID != "en") {
 				const actualLocale = require(`../locales/${localeID}.json`);
 				
 				for (const itemId in actualLocale) {
